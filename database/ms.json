@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/c/c7/Gundam_Alex.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/nt1_00_d2d08db74c4933a462251062c2037a6c.png",
+    "level": 1,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 450
+  },
+  {
+    "id": 2,
+    "name": "Alex",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/c/c7/Gundam_Alex.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/nt1_00_d2d08db74c4933a462251062c2037a6c.png",
+    "level": 2,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 500
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/c/c7/Gundam_Alex.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/nt1_00_d2d08db74c4933a462251062c2037a6c.png",
+    "level": 3,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 550
+  },
+  {
+    "id": 4,
+    "name": "Armored GM",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/b/bd/Armored_GM.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/mgm_00_9deb7d93ba5b6006485e6ba424da183e.png",
+    "level": 1,
+    "group": "general",
+    "compatibility": ["ground"],
+    "cost": 250
+  },
+  {
+    "id": 5,
+    "name": "Armored GM",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/b/bd/Armored_GM.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/mgm_00_9deb7d93ba5b6006485e6ba424da183e.png",
+    "level": 2,
+    "group": "general",
+    "compatibility": ["ground"],
+    "cost": 300
+  },
+  {
+    "id": 6,
+    "name": "Armored GM",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/b/bd/Armored_GM.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/mgm_00_9deb7d93ba5b6006485e6ba424da183e.png",
+    "level": 3,
+    "group": "general",
+    "compatibility": ["ground"],
+    "cost": 350
+  },
+  {
+    "id": 7,
+    "name": "Armored GM",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/b/bd/Armored_GM.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/mgm_00_9deb7d93ba5b6006485e6ba424da183e.png",
+    "level": 4,
+    "group": "general",
+    "compatibility": ["ground"],
+    "cost": 400
+  },
+  {
+    "id": 8,
+    "name": "Blue Destiny Unit-3",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/0/05/Blue_Destiny_3.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/bd3_00_a299376629b6c67e2376cefc23bcacb8.png",
+    "level": 1,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 400
+  },
+  {
+    "id": 9,
+    "name": "Blue Destiny Unit-3",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/0/05/Blue_Destiny_3.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/bd3_00_a299376629b6c67e2376cefc23bcacb8.png",
+    "level": 2,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 450
+  },
+  {
+    "id": 10,
+    "name": "Blue Destiny Unit-3",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/0/05/Blue_Destiny_3.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/bd3_00_a299376629b6c67e2376cefc23bcacb8.png",
+    "level": 3,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 500
+  },
+  {
+    "id": 11,
+    "name": "Blue Destiny Unit-3",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/0/05/Blue_Destiny_3.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/bd3_00_a299376629b6c67e2376cefc23bcacb8.png",
+    "level": 4,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 550
+  },
+  {
+    "id": 12,
+    "name": "Full Armor Gundam Ground Type",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/8/8f/FA_Gundam_Ground_type_pic.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/fgl_00_a2dc2e0caa5b4464ce38f68557cb963f.png",
+    "level": 1,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 450
+  },
+  {
+    "id": 13,
+    "name": "Full Armor Gundam Ground Type",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/8/8f/FA_Gundam_Ground_type_pic.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/fgl_00_a2dc2e0caa5b4464ce38f68557cb963f.png",
+    "level": 2,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 500
+  },
+  {
+    "id": 14,
+    "name": "G-Line Standard Armor",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/f/f1/G-Line_Standard_Armor.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/r8s_00_d5bb3cb3a76f78342a6343d8a9ee49fb.png",
+    "level": 1,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 400
+  },
+  {
+    "id": 15,
+    "name": "G-Line Standard Armor",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/f/f1/G-Line_Standard_Armor.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/r8s_00_d5bb3cb3a76f78342a6343d8a9ee49fb.png",
+    "level": 2,
+    "group": "general",
+    "compatibility": ["ground", "space"],
+    "cost": 450
+  },
+  {
+    "id": 16,
+    "name": "G-Line Standard Armor",
+    "picture": "https://vignette.wikia.nocookie.net/gbo2/images/f/f1/G-Line_Standard_Armor.png",
+    "avatar": "https://bo2.ggame.jp/images/items/2020/03/r8s_00_d5bb3cb3a76f78342a6343d8a9ee49fb.png",
+    "level": 3,
+    "group": "raid",
+    "compatibility": ["ground", "space"],
+    "cost": 500
+  }
+]
